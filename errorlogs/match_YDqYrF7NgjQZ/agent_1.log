@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "main.py", line 3, in <module>
+    from agent import agent
+  File "/Users/fedebehrens/simple/agent.py", line 29
+    width, height = game_state.map.width, game_state.map.
+                                                        ^
+SyntaxError: invalid syntax
